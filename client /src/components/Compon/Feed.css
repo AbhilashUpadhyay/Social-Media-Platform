@@ -1,0 +1,124 @@
+.userPost{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 12px;
+    padding: 16px;
+    box-shadow: 2px 0px 4px rgb(226, 226, 226);
+    display: flex;
+    flex-direction: column;
+}
+.profile{
+    display: flex;
+    gap: 8px;
+    flex-direction: row;
+    text-align: center;
+    height: 40px;
+    align-items: center;
+}
+
+.profilePhoto{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+  
+}
+.postPhoto{
+    width: 95%;
+    height:80%;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+    
+}
+
+
+  .attentionBox{
+    height: 80px;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+
+  /* test */
+
+
+.button-like {
+    border: 2px solid #8a8a8a;
+    background-color: transparent;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3rem;
+    color: #8a8a8a;
+    transition: all ease 0.4s;
+    width: 45%;
+    height: 40px;
+  }
+  
+  .button-like span {
+    margin-left: 0.5rem;
+  }
+  
+  .button-like .fa,
+  .button-like span {
+    transition: all ease 0.4s;
+  }
+  
+  .button-like:focus {
+    background-color: transparent;
+  }
+  
+  .button-like:focus .fa,
+  .button-like:focus span {
+    color: #8a8a8a;
+  }
+  
+  .button-like:hover {
+    border-color: #ff482c;
+    background-color: transparent;
+  }
+  
+  .button-like:hover .fa,
+  .button-like:hover span {
+    color: #ff553b;
+  }
+  
+  .liked {
+    background-color: #ff3e20;
+    border-color: transparent;
+  }
+  
+  .liked .fa,
+  .liked span {
+    color: #fefefe;
+  }
+  
+  .liked:focus {
+    background-color: rgb(255, 69, 69);
+  }
+  
+  .liked:focus .fa,
+  .liked:focus span {
+    color: #fefefe;
+  }
+  
+  .liked:hover {
+    background-color: #fc5a47;
+    border-color: #fd6251;
+  }
+  
+  .liked:hover .fa,
+  .liked:hover span {
+    color: #fefefe;
+  }
+  
+  
