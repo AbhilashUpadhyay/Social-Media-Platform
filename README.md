@@ -1,6 +1,6 @@
 HOMEPAGE
 
-<img width="1267" alt="Screenshot 2024-07-16 at 4 01 20 PM" src="https://github.com/user-attachments/assets/451af46c-b064-480c-ab8c-d46e0862be23">
+<img width="1280" alt="Screenshot 2024-08-07 at 5 41 53 PM" src="https://github.com/user-attachments/assets/7a293b1e-cddc-46a4-bc9d-00f9109cbadd">
 
 PROFILE
 
